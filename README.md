@@ -1,13 +1,9 @@
-- Wrote up the description for both assessment PRs (one for the frotnend and one for the backend)
-- Drew an architecture diagram for the assessment that could be used in conjunction with tech stack description
-- Started updating general assessment instructions and setup
-
 # Mobiz Assessment
 
 ## Overview
-This assessment application is made up of a [Nuxt](https://nuxtjs.org) frontend and a [Node](https://nodejs.org)/[Express](https://expressjs.com) backend. See the [Technology]() section for further details on the teach stack of the application.
+This assessment application is made up of a [Nuxt](https://nuxtjs.org) frontend and a [Node](https://nodejs.org)/[Express](https://expressjs.com) backend. See the [Technology](#technology-stack) section for further details on the teach stack of the application.
 
-Your task is to add a feature to this application. See the [Instructions]() section for further details.
+Your task is to add a feature to this application. See the [Instructions](#instructions) section for further details.
 
 ## Functionality
 The application allows a user to view contacts in a table, and add a contact using a modal. Contacts have 3 data attributes: first name, last name, and cellphone number.
@@ -41,7 +37,7 @@ $ npm run start
 ```
 
 
-## Technology
+## Technology stack
 
 
 The rubric for the assessment is as below:
